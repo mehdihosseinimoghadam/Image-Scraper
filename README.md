@@ -14,7 +14,7 @@ Google based image scraper in python to make data set for computer vision
 
 #out: 'sun' has been scraped and stored in /content/sun
 
-    ```
+    ````
     
     
     ```python
@@ -25,7 +25,7 @@ def fib(n: int) -> Iterator[int]:
     while a < n:
         yield a
         a, b = b, a + b
-```
+````
 
 <p align="center">
   <img src="How_to_use.png" alt="Size Limit CLI" width="738">
