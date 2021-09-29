@@ -16,17 +16,15 @@ Google based image scraper in python to make data set for computer vision
 
 ```
     
-    
-```python
-from typing import Iterator
-
-def fib(n: int) -> Iterator[int]:
-    a, b = 0, 1
-    while a < n:
-        yield a
-        a, b = b, a + b
-```
-
+ 
 <p align="center">
   <img src="How_to_use.png" alt="Size Limit CLI" width="738">
+</p>
+
+
+
+## Main Function
+
+<p align="center">
+  <img src="Main.png" alt="Size Limit CLI" width="738">
 </p>
