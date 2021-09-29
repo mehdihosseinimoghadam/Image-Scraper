@@ -13,6 +13,7 @@ Google based image scraper in python to make data set for computer vision
 #-q Path for query
 
 #out: 'sun' has been scraped and stored in /content/sun
+
     ```
 
 <p align="center">
